@@ -13,7 +13,7 @@ Completed as part of the IBM Python Project for Data Science course, the project
 - **BeautifulSoup** — Web scraping and HTML parsing
 - **Requests** — Retrieving webpage data
 - **pandas** — Data cleaning and manipulation
-- **Plotly** — Interactive financial visualisations in the original course workflow
+- **Matplotlib** — Financial visualisations
 - **Jupyter Notebook** — Development and documentation
 
 ## Project Workflow
